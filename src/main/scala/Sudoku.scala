@@ -1,6 +1,7 @@
-object Main {
+package main.scala;
 
-	def main( args: Array[String] ) {
-		// TODO - this needs to be filled with code
-	}
+object Sudoku {
+  def main(args: Array[String]) {
+    println("It's alive!")
+  }
 }
